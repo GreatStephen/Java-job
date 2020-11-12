@@ -42,7 +42,7 @@ public class miniCAD extends JFrame{
 
     public static void main(String[] args){
         miniCAD cad = new miniCAD(); // 建立整个程序
-
+        int a = 1;
     }
 
     public miniCAD(){ // 描述整个程序
